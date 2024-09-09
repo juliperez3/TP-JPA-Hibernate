@@ -1,4 +1,4 @@
-# TP JPA Hbernate
+# TP JPA Hibernate
 
 Este repositorio contiene el trabajo práctico de Proyecto JPA+Hibernate
 
