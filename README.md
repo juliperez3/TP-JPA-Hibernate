@@ -7,4 +7,4 @@ Carpeta llamada Proyecto JPA donde se encuentra todo el codigo disponible, con c
 
 ## Características de Ejecución
 Para visualizar el trabajo práctico:
-Clonar el Repositorio: 
+Clonar el Repositorio: https://github.com/juliperez3/TP-JPA-Hibernate/tree/main
